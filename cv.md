@@ -31,3 +31,5 @@ console.log(areYouPlayingBanjo('Ron'));
 
 * [Rsschool-cv](https://github.com/endruan/rsschool-cv)
 
+## Education
+Donbass Institute of Technology and Management of the International Scientific and Technical University academician Yuri Bugai
