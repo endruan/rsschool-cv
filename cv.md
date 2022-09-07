@@ -12,3 +12,18 @@ I'm a factory worker. I decided to devote my free time to studying Front-end. An
 * Git
 * Sass
 
+## Code Examples
+```js
+function areYouPlayingBanjo(name) {
+  if (name.charAt(0).toLowerCase() == 'r') {
+    return name + " plays banjo";
+  } else {
+    return name + " does not play banjo";
+  }
+
+}
+
+console.log(areYouPlayingBanjo('Jon'));
+console.log(areYouPlayingBanjo('Ron'));
+```
+
