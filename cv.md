@@ -33,3 +33,6 @@ console.log(areYouPlayingBanjo('Ron'));
 
 ## Education
 Donbass Institute of Technology and Management of the International Scientific and Technical University academician Yuri Bugai
+
+## English
+A1 (Elementary)
